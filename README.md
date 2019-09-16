@@ -8,5 +8,5 @@ simple examples of assembly languages
 
 ## Authors
 
-* [Billie Thompson](https://github.com/walker1239)
+* [Walker Manrique](https://github.com/walker1239)
 
